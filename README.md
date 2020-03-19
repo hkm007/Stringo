@@ -1,6 +1,6 @@
 # Stringo
 
-It is a desktop application made using Swing package in Java.
+It is a desktop application(GUI) made using Swing package in Java.
 
 ## Installation
 
@@ -16,6 +16,7 @@ java App
   2. Find length of string
   3. Convert string to upper case
   4. Convert string to lower case
+  5. Vowels/Consonant Ratio
 ```
 
 Enjoy!!
